@@ -2,27 +2,36 @@
   docs:
   - home
 
-- title: 1 The Circuit
+- title: Week 1
   docs:
   - 1-0
   - 1-1
 
-- title: 2 Program the Lights
+- title: Week 2
   docs:
   - 2-0
   - 2-1
 
-- title: 3 Program the Music
+- title: Week 3
   docs:
   - 3-0
   - 3-1
 
-- title: 4 Complete the Plushie
+- title: Week 4
   docs:
   - 4-0
   - 4-1
 
-- title: Licensing
+- title: Week 5
+  docs:
+  - 5-0
+  - 5-1
+
+- title: Week 6
+  docs:
+  - 6-0
+  - 6-1
+
+- title: About
   docs:
   - about
-  - ourlicense
