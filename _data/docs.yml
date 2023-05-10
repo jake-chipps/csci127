@@ -1,0 +1,28 @@
+- title: Overview
+  docs:
+  - home
+
+- title: 1 The Circuit
+  docs:
+  - 1-0
+  - 1-1
+
+- title: 2 Program the Lights
+  docs:
+  - 2-0
+  - 2-1
+
+- title: 3 Program the Music
+  docs:
+  - 3-0
+  - 3-1
+
+- title: 4 Complete the Plushie
+  docs:
+  - 4-0
+  - 4-1
+
+- title: Licensing
+  docs:
+  - about
+  - ourlicense

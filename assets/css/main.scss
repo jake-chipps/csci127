@@ -1,0 +1,98 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+
+@import
+  {% if site.bootwatch %}
+    "bootswatch/{{site.bootwatch | downcase}}/variables",
+  {% endif %}
+
+  "bootstrap",
+
+  {% if site.bootwatch %}
+    "bootswatch/{{site.bootwatch | downcase}}/bootswatch",
+  {% endif %}
+
+  "syntax-highlighting",
+  "jekyll-doc-theme"
+;
+
+// In-line styles
+.todo{
+  color: Red;
+  &:before {
+    font-weight: bold;
+    content: "[XXX TODO: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
+  }
+}
+
+.jake {
+  color: Magenta;
+  &:before {
+    font-weight: bold;
+    content: "[XXX Jake Says: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
+  }
+}
+
+.important {
+  color: Red;
+  &:before {
+    font-weight: bold;
+    content: "[Important: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
+  }
+}
+
+.think {
+  color: Green;
+  &:before {
+    font-weight: bold;
+    content: "[Pause and consider: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
+  }
+}
+
+.solution {
+  color: White;
+  border-style: dashed;
+  &:hover {
+    color: Black;
+  }
+}
+
+.task-header {
+  width: 800px;
+  padding: 1px;
+  border: 2px;
+  border-color: Gold;
+  border-style: dotted;
+  margin: 0;
+  font-weight: bold;
+  color: DodgerBlue;
+}
+
+.task {
+  width: 800px;
+  padding: 1px;
+  border: 2px;
+  border-color: Gold;
+  border-style: dotted;
+  margin: 0;
+}
