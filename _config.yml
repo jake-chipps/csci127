@@ -1,23 +1,19 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
-baseurl:
+title: CSCI 127 - Chipps
+url: "https://www.jake-chipps.github.io/csci127/"
+baseurl: https://www.jake-chipps.github.io
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Product documentation template for Jekyll.
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
-social:
-  name: Edition Template
-  links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+author: 
+  name: Jake Chipps
+  email: joseph.chipps@montana.edu
+  twitter: @jake_chipps
 
 # -----
 # Build
