@@ -1,5 +1,5 @@
 ---
-title: Lab 1
+title: Lab 1 Getting Started
 permalink: /docs/lab1/
 ---
 
@@ -21,7 +21,7 @@ permalink: /docs/lab1/
 ## Assignment
 At the start of the lab period, everyone will provide a one-minute introduction. You can talk about whatever you like but if you aren't sure what to talk about consider stating your name, your year in school, your major, why you chose that major, your favorite hobby and a fun factoid. This will help everyone get to know possible future programming partners or study partners.
 
-Download [etch-a-sketch.py](/etch-a-sketch.py) and rename it according to the instructions above.
+Download [etch-a-sketch.py](../lessons/code/etch-a-sketch.py) and rename it according to the instructions above.
 Modify the code so that whenever the color is changed, both the pencil and the entire square (where you click to change colors) change to the same new color. Hint: you only need to make changes to the drawing_controls function.
 
 ## Grading - 10 points
