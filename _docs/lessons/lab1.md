@@ -5,8 +5,11 @@ permalink: /docs/lab1/
 
 ## Logistics
 **Due**: Tuesday, September 3rd no later than 11:58 p.m.
+
 **Partner Information**: Complete this assignment individually.
+
 **Submission Instructions**: Upload your solution, entitled YourFirstName-YourLastName-Lab1.py to the BrightSpace Lab 1 Dropbox.
+
 **Deadline Reminder**: Once this deadline passes, BrightSpace will no longer accept your Python submission and you will no longer be able to earn credit. Thus, if you are not able to fully complete the assignment, submit whatever you have before the deadline so that partial credit can be earned.
 
 ## Learning Outcomes
@@ -23,9 +26,13 @@ Modify the code so that whenever the color is changed, both the pencil and the e
 
 ## Grading - 10 points
 0 points - If you are having trouble installing Python, bring your laptop to lab so that we can help you.
+
 2 points - You attend lab and introduce yourself.
+
 3 points - BrightSpace contains a recognizable photo or sketch no later than 11:58 p.m. on Tuesday, September 3rd. (Partial credit: 1 point for replacing the BrightSpace default photo with anything, 2 points for showing multiple people without it being clear who is you.)
+
 2 points - A Python program named YourFirstName-YourLastName-Lab1.py is submitted to the BrightSpace Lab 1 Dropbox no later than 11:58 p.m. on Tuesday, September 3rd.
+
 3 points - The Python program is correct.
 
 ## Grading Turnaround
