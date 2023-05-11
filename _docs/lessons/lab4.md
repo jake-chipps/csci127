@@ -56,10 +56,10 @@ There will always be at least one legal combination of wins, ties and losses.
 ## Grading - 10 points
 2 points - The output format is matched exactly.
 
-8 points - Your program will be graded using a different value for soccer_seasons. For each season that produces the correct output, you will earn 1 point.
+8 points - Your program will be graded using a different value for `soccer_seasons`. For each season that produces the correct output, you will earn 1 point.
 
 ## Test Data
-soccer_seasons = [[2, 3], [2, 4], [2, 6], [17, 17], [17, 24], [0, 0], [10, 2], [10, 3]]
+`soccer_seasons = [[2, 3], [2, 4], [2, 6], [17, 17], [17, 24], [0, 0], [10, 2], [10, 3]]`
 
 ## If Time Remains
 Work on Program 2, seeking feedback as necessary.
