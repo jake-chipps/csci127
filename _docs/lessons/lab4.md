@@ -22,33 +22,7 @@ In a soccer match, a win is worth 3 points, a tie is worth 1 point, and a loss i
 ## Assignment
 Download [lab4.py](../lessons/code/lab4.py)
 
-Replace the pass construct in each function with the necessary Python code to produce this output:
-```
-Season: 1, Games Played: 1, Points earned: 3
-Possible Win-Tie-Loss Records
------------------------------
-1-0-0
-
-Season: 2, Games Played: 1, Points earned: 1
-Possible Win-Tie-Loss Records
------------------------------
-0-1-0
-
-Season: 3, Games Played: 1, Points earned: 0
-Possible Win-Tie-Loss Records
------------------------------
-0-0-1
-
-Season: 4, Games Played: 20, Points earned: 30
-Possible Win-Tie-Loss Records
------------------------------
-10-0-10
-9-3-8
-8-6-6
-7-9-4
-6-12-2
-5-15-0
-```
+Replace the pass construct in each function with the necessary Python code to produce [this output](../lessons/code/lab4_output.txt).
 
 ## Assumption
 There will always be at least one legal combination of wins, ties and losses.
