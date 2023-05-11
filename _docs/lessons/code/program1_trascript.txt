@@ -1,0 +1,20 @@
+Program 1: Liberty Bell Slot Machine Simulation
+
+--> Part 1: Testing Known Spins
+
+REEL 1    REEL 2    REEL 3    PAYOUT
+------    ------    ------    ------
+bell      bell      bell          50
+heart     heart     heart         40
+diamond   diamond   diamond       30
+spade     spade     spade         20
+horseshoe horseshoe horseshoe     10
+horseshoe horseshoe heart          5
+horseshoe diamond   horseshoe      5
+spade     horseshoe horseshoe      5
+heart     heart     horseshoe      0
+bell      diamond   spade          0
+
+--> Part 2: Simulating 500,000 Spins
+
+For every $1 spent, you can expect to win 0.34

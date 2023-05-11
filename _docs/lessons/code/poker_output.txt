@@ -1,0 +1,11 @@
+CSCI 127: Poker Hand Evaluation Program
+---------------------------------------
+[[10, 'spades'], [11, 'spades'], [12, 'spades'], [13, 'spades'], [14, 'spades']] --> Royal Flush
+[[6, 'clubs'], [7, 'clubs'], [8, 'clubs'], [9, 'clubs'], [10, 'clubs']] --> Straight Flush
+[[2, 'clubs'], [2, 'diamonds'], [2, 'hearts'], [2, 'spades'], [7, 'clubs']] --> Four of a Kind
+[[7, 'clubs'], [7, 'spades'], [8, 'clubs'], [8, 'diamonds'], [8, 'hearts']] --> Full House
+[[6, 'clubs'], [7, 'clubs'], [8, 'spades'], [9, 'clubs'], [10, 'clubs']] --> Straight
+[[7, 'clubs'], [7, 'hearts'], [7, 'spades'], [8, 'clubs'], [13, 'diamonds']] --> Three of a Kind
+[[6, 'diamonds'], [6, 'hearts'], [9, 'clubs'], [9, 'diamonds'], [10, 'spades']] --> Two Pair
+[[6, 'diamonds'], [9, 'diamonds'], [10, 'spades'], [12, 'clubs'], [12, 'hearts']] --> One Pair
+[[2, 'spades'], [7, 'clubs'], [8, 'diamonds'], [11, 'hearts'], [13, 'diamonds']] --> Nothing
