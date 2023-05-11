@@ -36,7 +36,7 @@ Write the missing `spin_payout` function such that it returns the correct payout
 
 Write the missing `simulate` function such that it simulates the handle of the slot machine being pulled the specified number of times. The simulation may assume that for each reel, the probability of generating any of the five symbols is the same. Once the simulation is finished, the function should print a message stating how much money can be expected to be won for each $1 spent.
 
-Here is a [sample transcrip](../lessons/code/program1_trascript.txt) of the program running. Your solution should match the output format exactly. However, because of randomness, the expected winnings per dollar spent might vary each time the program is run.
+Here is a [sample transcript](../lessons/code/program1_trascript.txt) of the program running. Your solution should match the output format exactly. However, because of randomness, the expected winnings per dollar spent might vary each time the program is run.
 
 ## Grading - 100 points
 50 points - Each of the ten test spins is calculated correctly in a general fashion. (5 points each - all or nothing.)
