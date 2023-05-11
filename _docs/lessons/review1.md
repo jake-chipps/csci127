@@ -17,6 +17,6 @@ You may bring one 8.5 inch by 11 inch sheet of double-sided notes.
 
 You may use a computer to develop your answers. You may only use the internet to access the interactive python textbook, the online python documentation or previous python programs that you (or you and your partner) wrote for this course.
 
-To be successful on the exam, strive to understand the Python material and be able to use it to solve small problems.
+To be successful on the exam, strive to **understand** the Python material and be able to use it to solve small problems.
 
 [Practice Practicum](../lessons/code/practice.pdf)
