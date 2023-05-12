@@ -4,7 +4,7 @@ permalink: /docs/lab11/
 ---
 
 ## Logistics
-**Due**: Friday, May 16th no later than 11:58 p.m.
+**Due**: Friday, June 16th no later than 11:58 p.m.
 
 **Partner Information**: Complete this assignment individually.
 
