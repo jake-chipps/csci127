@@ -26,4 +26,12 @@ redirect_from: /docs/index.html
 | Friday | June 2 |   | [Program 2](../prgm2) |
 | Saturday | June 3 |  |  |
 | Sunday | June 4 |  |  [Lab 6](../lab6) |
+| Monday | June 5 | [Dictionaries 3](../4-31), Lab |  |
+| Tuesday | June 6 | [OOP Basics 1](../4-4), [OOP Basics 2](../5-1) | [Lab 7](../lab7) |
+| Wednesday | June 7 | [OOP Basics 3](../5-11), Lab | [Program 3](../prgm3) | 
+| Thursday | June 8 | [More OOP 1](../5-2), [More OOP 2](../5-3), Lab |  |
+| Friday | June 9 |   | [Lab 8](../lab8) |
+| Saturday | June 10 |  |  |
+| Sunday | June 11 |  |  |
+
 
