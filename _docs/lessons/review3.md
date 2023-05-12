@@ -5,7 +5,7 @@ permalink: /docs/review3/
 
 **Final Practicum**
 
-**Time**: 50 minutes
+**Time**: 110 minutes
 
 **Location**: Barnard 126
 
