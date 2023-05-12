@@ -40,5 +40,8 @@ redirect_from: /docs/index.html
 | Friday | June 16 |  | [Lab 11](../lab11) |
 | Saturday | June 17 |  |  |
 | Sunday | June 18 |  |  |
-
+| Monday | June 19 | [MatPlotLib 1](../7-1), [MatPlotLib 2](../7-2), Lab | [Lab 12](../lab12) |
+| Tuesday | June 20 | [MatPlotLib 3](../7-3), [pandas 1](../6-2), Lab | [Program 5](../prgm5) |
+| Wednesday | June 21 | [pandas 2](../6-3), [pandas 3](../6-4), Lab | [Lab 12](../lab12) |
+| Thursday | June 22 | [Review 3](../review3) | [Program 6](../prgm6) |
 
