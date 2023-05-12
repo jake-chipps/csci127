@@ -33,5 +33,12 @@ redirect_from: /docs/index.html
 | Friday | June 9 |   | [Lab 8](../lab8) |
 | Saturday | June 10 |  |  |
 | Sunday | June 11 |  |  |
+| Monday | June 12 | [More OOP 3](../5-31), Lab |  |
+| Tuesday | June 13 | [Review 2](../review2), Practicum 2 | [Lab 9](../lab9) |
+| Wednesday | June 14 | [NumPy 1](../5-4), [NumPy 2](../6-1), Lab | [Lab 10](../lab10) |
+| Thursday | June 15 | [NumPy 3](../6-11), Lab | [Program 4](../prgm4) |
+| Friday | June 16 |  | [Lab 11](../lab11) |
+| Saturday | June 17 |  |  |
+| Sunday | June 18 |  |  |
 
 
