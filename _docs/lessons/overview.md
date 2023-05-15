@@ -55,22 +55,17 @@ Failure to abide by these rules will result in an "F" for the course and being r
 ### Dean of Students
 The Office of the Dean of Students fosters MSU’s campus environment to ensure student success. If you’re unsure how to troubleshoot an issue you may be facing, this is a good place to start. Assistance is available by appointment and on a "drop-in" basis.
 
-SUB 174
-
-994-2826
-
-[http://www.montana.edu/deanofstudents/](https://www.montana.edu/deanofstudents/)
+- SUB 174
+- 994-2826
+- [http://www.montana.edu/deanofstudents/](https://www.montana.edu/deanofstudents/)
 
 ### Civil Rights
 There should be no discrimination or harassment for anyone at MSU. If you notice anything that seems to violate that principle, the Office of Institutional Equity can help. As an employee of MSU, I am a mandatory reporter, which means if I learn of any discrimination or harassment at MSU, I am obligated by my contract to report it.
 
-Hamilton Hall, Offices 114, 116, and 118
-
-406-994-2042 or 406-992-5326
-
-oie@montana.edu
-
-[http://www.montana.edu/equity/](https://www.montana.edu/equity/)
+- Hamilton Hall, Offices 114, 116, and 118
+- 406-994-2042 or 406-992-5326
+- oie@montana.edu
+- [http://www.montana.edu/equity/](https://www.montana.edu/equity/)
 
 ### MSU Diversity Statement
 Montana State University's campuses are committed to providing an environment that emphasizes the dignity and worth of every member of its community and that is free from harassment and discrimination based upon race, color, religion, national origin, creed, service in the uniformed services (as defined in state and federal law), veteran’s status, sex, age, political ideas, marital or family status, pregnancy, physical or mental disability, genetic information, gender identity, gender expression, or sexual orientation. Such an environment is necessary to a healthy learning, working, and living atmosphere because discrimination and harassment undermine human dignity and the positive connection among all people at our University. Acts of discrimination, harassment, sexual misconduct, dating violence, domestic violence, stalking, and retaliation will be addressed consistent with this policy.
