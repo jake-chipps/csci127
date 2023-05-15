@@ -4,7 +4,7 @@ permalink: /docs/overview/
 ---
 
 ## Course Description
-CSCI 127. Joy and Beauty of Data. 4 Credits. (3 Lec, 1 Lab) F,S
+CSCI 127. Joy and Beauty of Data. 4 Credits.
 
 COREQUISITE: M 151Q Provides a gentle introduction to the exciting world of big data and data science. Students expand their ability to solve problems with Python by learning to deploy lists, files, dictionaries and object-oriented programming. Data science libraries are introduced that enable data to be manipulated and displayed.
 
@@ -56,15 +56,20 @@ Failure to abide by these rules will result in an "F" for the course and being r
 The Office of the Dean of Students fosters MSU’s campus environment to ensure student success. If you’re unsure how to troubleshoot an issue you may be facing, this is a good place to start. Assistance is available by appointment and on a "drop-in" basis.
 
 SUB 174
+
 994-2826
+
 [http://www.montana.edu/deanofstudents/](https://www.montana.edu/deanofstudents/)
 
 ### Civil Rights
 There should be no discrimination or harassment for anyone at MSU. If you notice anything that seems to violate that principle, the Office of Institutional Equity can help. As an employee of MSU, I am a mandatory reporter, which means if I learn of any discrimination or harassment at MSU, I am obligated by my contract to report it.
 
 Hamilton Hall, Offices 114, 116, and 118
+
 406-994-2042 or 406-992-5326
+
 oie@montana.edu
+
 [http://www.montana.edu/equity/](https://www.montana.edu/equity/)
 
 ### MSU Diversity Statement
