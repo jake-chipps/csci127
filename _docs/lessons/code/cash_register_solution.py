@@ -11,7 +11,7 @@ change = float(input("Enter some amount of money: $"))
 
 # Break change into dollars and cents, using only ints
 dollars = int(change)
-cents = int(round(100 * (change - dollars))) # Note: the round() function outputs a float so we need to recast as int
+cents = round(100 * (change - dollars))
 
 # Break down dollars
 
