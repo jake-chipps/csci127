@@ -10,7 +10,7 @@ import random
 
 # Contant representing the number of times you want to run the simulation
 # After your code works, change this number to ten million for a (better) answer
-simulation_number = 1000
+simulation_number = 10000000
 
 # ---------------------------------------
 # rolls_a_six
