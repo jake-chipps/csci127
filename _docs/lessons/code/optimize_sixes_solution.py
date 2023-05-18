@@ -10,7 +10,7 @@ import random
 
 # Contant representing the number of times you want to run the simulation
 # After your code works, change this number to ten million for a (better) answer
-simulation_number = 10000000
+simulation_number = 1000000000
 
 # ---------------------------------------
 # rolls_a_six
@@ -38,10 +38,7 @@ def roll_2_sixes_given_n_dice(num_dice):
     for i in range(num_dice):
         if(rolls_a_six()):
             count += 1
-    if(count == 2):
-        return True
-    else:
-        return False
+    return count == 2
 
 # ---------------------------------------
 # simulate_prob_2_sixes_given_n_dice
