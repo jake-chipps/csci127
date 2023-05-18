@@ -10,7 +10,7 @@ import random
 
 # Contant representing the number of times you want to run the simulation
 # After your code works, change this number to ten million for a (better) answer
-simulation_number = 10000000
+simulation_number = 1000
 
 # ---------------------------------------
 # rolls_a_six
@@ -65,9 +65,12 @@ def simulate_prob_2_sixes_given_n_dice(num_dice, num_rolls):
 # ---------------------------------------
 
 def main():
+    print("{:10}{:10}".format("Dice", "Probability of Rolling 2 Sixes"))
+    print("{:10}{:10}".format("------", "------"))
     for i in range(2,21):
-        print("Dice:",i,"\tProbablity of two 6s:",simulate_prob_2_sixes_given_n_dice(i,simulation_number))
-
+        str_i = str(i)
+        str_prob = str(simulate_prob_2_sixes_given_n_dice(i,simulation_number))
+        print("{:10}{:10}".format(str_i, str_prob))
 # ---------------------------------------
 
 main()

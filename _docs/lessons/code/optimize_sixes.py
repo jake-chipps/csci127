@@ -52,9 +52,12 @@ simulation_number = 100
 # ---------------------------------------
 
 def main():
+    print("{:10}{:10}".format("Dice", "Probability of Rolling 2 Sixes"))
+    print("{:10}{:10}".format("------", "------"))
     for i in range(2,21):
-        print("Dice:",i,"\tProbablity of two 6s:",simulate_prob_2_sixes_given_n_dice(i,simulation_number))
-
+        str_i = str(i)
+        str_prob = str(simulate_prob_2_sixes_given_n_dice(i,simulation_number))
+        print("{:10}{:10}".format(str_i, str_prob))
 # ---------------------------------------
 
 main()
