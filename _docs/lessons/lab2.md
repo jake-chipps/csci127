@@ -23,7 +23,7 @@ Modify the program by adding the missing function. The missing function will use
 
 [2022 Federal Tax Bracket](https://taxfoundation.org/2022-tax-brackets/)
 
-Note: the federal tax is progressive. For example, if a person has a taxable income of $15,000, the first $9,700 is taxed at a rate of 10% and the remaining $5,300 is taxed at a rate of 12%.
+Note: the federal tax is progressive. For example, if a person has a taxable income of $15,000, the first $10,275 is taxed at a rate of 12% and the remaining $4,725 is taxed at a rate of 22%.
 
 | Rate | For Unmarried Individuals, Taxable Income Over | 
 | --- | --- |
