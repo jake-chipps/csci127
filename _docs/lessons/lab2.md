@@ -30,17 +30,17 @@ current_tax = .1 * 10275
 remaining_income = income - 10275
 ```
 
-Then $41,775 of the remaining $79,725.00 is taxed at a rate of 22%:
+Then $41,775 of the remaining $79,725.00 is taxed at a rate of 12%:
 
 ```
-current_tax = current_tax + .22 * 41775
+current_tax = current_tax + .12 * 41775
 remaining_income = remaining_income - 41775
 ```
 
-Since the remaining income ($37,950.00) is less than the value of the next bracket ($89,075), the rest is taxed at 24%:
+Since the remaining income ($37,950.00) is less than the value of the next bracket ($89,075), the rest is taxed at 22%:
 
 ```
-current_tax = current_tax + .24 * remaining_income
+current_tax = current_tax + .22 * remaining_income
 ```
 
 
