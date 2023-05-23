@@ -26,7 +26,7 @@ Modify the program by adding the missing function. The missing function will use
 Note: the federal tax is progressive. For example, a person with a taxable income of $90,000 is taxed at a rate of 10% for the first $10,275:
 
 ```
-current_tax = .1 * 10,275
+current_tax = .1 * 10275
 remaining_income = income - 10275
 ```
 
