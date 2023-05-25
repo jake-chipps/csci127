@@ -19,8 +19,8 @@ redirect_from: /docs/index.html
 | Thursday | May 25 | [Lists 2](../3-3), [Lists 3](../3-31), Lab | [Lab 3](../lab3) |
 | Saturday | May 27 | | [Lab 4](../lab4) |
 | Sunday | May 28 |  |  |
-| Monday | May 29 | [Files 1](../3-4), [Files 2](../4-1) | [Program 1](../prgm1) |
-| Tuesday | May 30 | [Files 3](../4-15), Lab |  | 
+| Monday | May 29 | Memorial Day (No Class) | [Program 1](../prgm1) |
+| Tuesday | May 30 | [Files 1](../3-4), [Files 2](../4-1), [Files 3](../4-15), Lab |  | 
 | Wednesday | May 31 | [Review 1](../review1), Practictum 1 | [Lab 5](../lab5) |
 | Thursday | June 1 | [Dictionaries 1](../4-1), [Dictionaries 2](../4-2), Lab |  | 
 | Friday | June 2 |   | [Program 2](../prgm2) |
