@@ -22,7 +22,7 @@ redirect_from: /docs/index.html
 | Monday | May 29 | Memorial Day (No Class) | [Program 1](../prgm1) |
 | Tuesday | May 30 | [Files 1](../3-4), [Files 2](../4-1), [Files 3](../4-15), Lab |  | 
 | Wednesday | May 31 | [Review 1](../review1), Practictum 1 | [Lab 5](../lab5) |
-| Thursday | June 1 | [Dictionaries 1](../4-1), [Dictionaries 2](../4-2), Lab |  | 
+| Thursday | June 1 | [Dictionaries 1](../4-2), [Dictionaries 2](../4-3), Lab |  | 
 | Friday | June 2 |   | [Program 2](../prgm2) |
 | Saturday | June 3 |  |  |
 | Sunday | June 4 |  |  [Lab 6](../lab6) |
