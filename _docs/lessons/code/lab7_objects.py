@@ -38,6 +38,12 @@ def create_ascii_list(file_name):
     
     return alist
 
+def is_in_list(char, ascii_list):
+    for item in ascii_list:
+        if item.getCharacter() == char or item.getCharacter in ['comma', 'space']:
+            return True
+    return False
+
 def translate(sentence, ascii_list, file_name):
     output_file = open(file_name, "w")
     for char in sentence:
@@ -50,7 +56,7 @@ def translate(sentence, ascii_list, file_name):
             for item in ascii_list:
                 if item.getCharacter() == 'space':
                     output_file.write(char + " " + item.getBinary() + "\n")
-        elif char not in dictionary:
+        elif not is_in_list(char, ascii_list):
             output_file.write(char + " " + "UNKNOWN\n")
         else:
             for item in ascii_list:
@@ -64,11 +70,11 @@ def translate(sentence, ascii_list, file_name):
 def main():
     alist = create_ascii_list("ascii-codes.csv")
     sentence = "Buck lived at a big house in the sun-kissed Santa Clara Valley. Judge Miller's place, it was called!"
-    translate(sentence, dictionary, "output-1.txt")
+    translate(sentence, alist, "output-1.txt")
     sentence = "Bozeman, MT  59717"
-    translate(sentence, dictionary, "output-2.txt")
+    translate(sentence, alist, "output-2.txt")
     sentence = "The value is ~$25.00"
-    translate(sentence, dictionary, "output-3.txt")
+    translate(sentence, alist, "output-3.txt")
 
 # --------------------------------------
 main()
