@@ -37,11 +37,11 @@ redirect_from: /docs/index.html
 | Tuesday | June 13 | [Review 2](../review2), Practicum 2 | [Lab 9](../lab9) |
 | Wednesday | June 14 | [NumPy 1](../5-4), [NumPy 2](../6-1), Lab | [Lab 10](../lab10) |
 | Thursday | June 15 | [NumPy 3](../6-11), Lab | [Program 4](../prgm4) |
-| Friday | June 16 |  | [Lab 11](../lab11) |
+| Friday | June 16 |  |  |
 | Saturday | June 17 |  |  |
-| Sunday | June 18 |  |  |
-| Monday | June 19 | [MatPlotLib 1](../7-1), [MatPlotLib 2](../7-2), Lab | [Lab 12](../lab12) |
+| Sunday | June 18 |  | [Lab 11](../lab11) |
+| Monday | June 19 | [MatPlotLib 1](../7-1), [MatPlotLib 2](../7-2), Lab |  |
 | Tuesday | June 20 | [MatPlotLib 3](../7-3), [pandas 1](../6-2), Lab | [Program 5](../prgm5) |
 | Wednesday | June 21 | [pandas 2](../6-3), [pandas 3](../6-4), Lab | [Lab 12](../lab12) |
-| Thursday | June 22 | [Review 3](../review3) | [Program 6](../prgm6) |
+| Thursday | June 22 | Final | [Lab 13](../lab13) |
 
